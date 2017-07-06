@@ -1,0 +1,8 @@
+[user]
+	email = chris.griebel.dev@gmail.com
+	name = Chris Griebel
+
+[color "status"]
+	added = green bold
+	changed = yellow bold
+	untracked = red bold
